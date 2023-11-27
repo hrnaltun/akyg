@@ -1,1 +1,22 @@
 # akyg
+
+##Create a folder
+``` mkdir akyg ```
+##Navigate to the Folder
+``` cd akyg ```
+##Initialize a Git Repository
+``` git init ```
+##Link with GitHub Repository
+``` git remote add origin https://github.com/hrnaltun/akyg.git ```
+##Pull Data from GitHub
+``` git pull origin main ```
+##List Contents of the Directory
+``` ls ```
+##Open README.md for Modification
+``` nano README.md ```
+##Add Changes
+``` git add . ```
+##Commit Changes
+``` git commit -m "README.md updated" ```
+##Push to GitHub
+``` git push -u origin main ```

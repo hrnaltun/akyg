@@ -14,6 +14,8 @@
 ``` ls ```
 ##Open README.md for Modification
 ``` nano README.md ```
+##Change Branch to Main
+``` git branch -M main ```
 ##Add Changes
 ``` git add . ```
 ##Commit Changes

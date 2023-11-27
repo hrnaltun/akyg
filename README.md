@@ -19,4 +19,4 @@
 ##Commit Changes
 ``` git commit -m "README.md updated" ```
 ##Push to GitHub
-``` git push -u origin main ```
+``` git push origin master ```

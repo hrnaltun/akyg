@@ -14,7 +14,7 @@
 
 ### Link with GitHub Repository
 
-``` git remote add origin https://github.com/hrnaltun/akyg.git ```
+``` git remote add origin <your repository link> ```
 
 ### Pull Data from GitHub
 
